@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\The_Learning_Lab.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{1DE357D4-75DC-49AE-AA89-DED7AEADA036}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\The_Learning_Lab.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\The_Learning_LabEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{E60796C7-09E9-4ADA-AB3F-874FD675955E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\The_Learning_Lab">
+			<UniqueIdentifier>{FB75F02E-72E4-4A7C-AC4D-CB1757072A2F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\The_Learning_Lab\The_Learning_Lab.Build.cs">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\The_Learning_Lab\The_Learning_Lab.cpp">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_Learning_Lab\The_Learning_Lab.h">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_Learning_Lab\The_Learning_LabCharacter.cpp">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_Learning_Lab\The_Learning_LabCharacter.h">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_Learning_Lab\The_Learning_LabGameMode.cpp">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_Learning_Lab\The_Learning_LabGameMode.h">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_Learning_Lab\The_Learning_LabPlayerController.cpp">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_Learning_Lab\The_Learning_LabPlayerController.h">
+			<Filter>Source\The_Learning_Lab</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

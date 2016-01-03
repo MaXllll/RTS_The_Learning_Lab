@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.9",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "The_Learning_Lab",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
